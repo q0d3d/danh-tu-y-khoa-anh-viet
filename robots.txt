@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/sitemap.xml
