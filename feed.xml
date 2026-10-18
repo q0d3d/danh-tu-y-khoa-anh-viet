@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Danh từ y khoa Anh–Việt</title>
-    <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/feed.xml" rel="self" />
-    <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet" />
+    <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
+    <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
     <updated>2026-10-17T19:00:37+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
-    <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet</id>
+    <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
     <entry>
         <title>Hair</title>
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/hair/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/hair/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hair/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hair/</id>
 
         <updated>2026-10-17T19:00:37+11:00</updated>
             <summary type="html">
@@ -48,8 +48,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cheek/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cheek/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cheek/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cheek/</id>
 
         <updated>2026-10-17T18:51:35+11:00</updated>
             <summary type="html">
@@ -72,8 +72,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/tongue/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/tongue/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tongue/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tongue/</id>
 
         <updated>2026-10-17T18:50:35+11:00</updated>
             <summary type="html">
@@ -96,8 +96,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/rhinorrhoea/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/rhinorrhoea/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rhinorrhoea/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rhinorrhoea/</id>
 
         <updated>2026-10-17T18:49:33+11:00</updated>
             <summary type="html">
@@ -124,8 +124,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cough/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cough/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cough/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cough/</id>
 
         <updated>2026-10-17T18:46:47+11:00</updated>
             <summary type="html">
@@ -149,8 +149,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/sugar/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/sugar/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sugar/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sugar/</id>
 
         <updated>2026-10-17T18:45:40+11:00</updated>
             <summary type="html">
@@ -185,8 +185,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/medication/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/medication/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/medication/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/medication/</id>
 
         <updated>2026-10-17T18:36:39+11:00</updated>
             <summary type="html">
@@ -219,8 +219,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/brain/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/brain/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/brain/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/brain/</id>
 
         <updated>2026-10-17T18:31:31+11:00</updated>
             <summary type="html">
@@ -253,8 +253,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/heart/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/heart/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart/</id>
 
         <updated>2026-10-17T18:15:07+11:00</updated>
             <summary type="html">
@@ -279,8 +279,8 @@
         <author>
             <name>Quinton</name>
         </author>
-        <link href="https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/chromosome/"/>
-        <id>https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/chromosome/</id>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chromosome/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chromosome/</id>
 
         <updated>2026-10-17T18:12:27+11:00</updated>
             <summary type="html">

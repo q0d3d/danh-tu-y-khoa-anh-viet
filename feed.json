@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Danh từ y khoa Anh–Việt",
     "description": "",
-    "home_page_url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet",
-    "feed_url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/feed.json",
+    "home_page_url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet",
+    "feed_url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.json",
     "user_comment": "",
     "author": {
         "name": "Quinton"
     },
     "items": [
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/hair/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/hair/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hair/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hair/",
             "title": "Hair",
             "summary": "pilus Used for head hair. Used for facial hair. Used for body hair. In technical contexts, is the preferred term for hair in general.",
             "content_html": "<p><em>pilus</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tóc</h3>\n<p>Used for head hair.</p>\n</section>\n<section class=\"medical-term\">\n<h3>râu</h3>\n<p>Used for facial hair.</p>\n</section>\n<section class=\"medical-term\">\n<h3>lông</h3>\n<p>Used for body hair. In technical contexts, is the preferred term for hair in general.</p>\n</section>\n</div>",
@@ -24,8 +24,8 @@
             "date_modified": "2026-10-17T19:00:37+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cheek/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cheek/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cheek/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cheek/",
             "title": "Cheek",
             "summary": "má",
             "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>má</h3>\n</section>\n</div>",
@@ -38,8 +38,8 @@
             "date_modified": "2026-10-17T18:51:35+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/tongue/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/tongue/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tongue/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tongue/",
             "title": "Tongue",
             "summary": "lưỡi",
             "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>lưỡi</h3>\n</section>\n</div>",
@@ -52,8 +52,8 @@
             "date_modified": "2026-10-17T18:50:35+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/rhinorrhoea/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/rhinorrhoea/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rhinorrhoea/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rhinorrhoea/",
             "title": "Rhinorrhoea",
             "summary": "runny nose; nasal discharge; nasal catarrh sổ mũi chảy nước mũi",
             "content_html": "<p><em>runny nose; nasal discharge; nasal catarrh</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sổ mũi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chảy nước mũi</h3>\n</section>\n</div>",
@@ -66,8 +66,8 @@
             "date_modified": "2026-10-17T18:49:33+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cough/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/cough/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cough/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cough/",
             "title": "Cough",
             "summary": "tussis ho",
             "content_html": "<p><em>tussis</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ho</h3>\n</section>\n</div>",
@@ -80,8 +80,8 @@
             "date_modified": "2026-10-17T18:47:17+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/sugar/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/sugar/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sugar/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sugar/",
             "title": "Sugar",
             "summary": "simple carbohydrate Jargon Jargon",
             "content_html": "<p><em>simple carbohydrate</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đường</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chất đường</h3>\n</section>\n<section class=\"medical-term\">\n<h3>glucide đơn giản</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>carbohydrate đơn giản</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n</div>",
@@ -94,8 +94,8 @@
             "date_modified": "2026-10-17T18:45:40+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/medication/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/medication/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/medication/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/medication/",
             "title": "Medication",
             "summary": "drug; medicine; pharmaceutical preparation; pharmaceutical product; medicament Vernacular Jargon collective term Jargon",
             "content_html": "<p><em>drug; medicine; pharmaceutical preparation; pharmaceutical product; medicament</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>thuốc</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>thuốc men</h3>\n<p>collective term</p>\n</section>\n<section class=\"medical-term\">\n<h3>dược phẩm</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n</div>",
@@ -108,8 +108,8 @@
             "date_modified": "2026-10-17T18:36:39+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/brain/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/brain/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/brain/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/brain/",
             "title": "Brain",
             "summary": "encephalon Vernacular Jargon Jargon Vernacular",
             "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<p><em>encephalon</em></p>\n<h3>não</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>não bộ</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>óc</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n</div>",
@@ -122,8 +122,8 @@
             "date_modified": "2026-10-17T18:32:13+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/heart/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/heart/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart/",
             "title": "Heart",
             "summary": "tim Vernacular Jargon Classified with trái or quả.",
             "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tim</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n<p>Classified with <em>trái</em> or <em>quả</em>.</p>\n</section>\n</div>",
@@ -136,8 +136,8 @@
             "date_modified": "2026-10-17T18:15:07+11:00"
         },
         {
-            "id": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/chromosome/",
-            "url": "https://q0d3d.github.io/tu-dien-y-khoa-anh-viet/chromosome/",
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chromosome/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chromosome/",
             "title": "Chromosome",
             "summary": "nhiễm sắc thể Jargon Jargon",
             "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>nhiễm sắc thể</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>nhiễm thể</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n</div>",
