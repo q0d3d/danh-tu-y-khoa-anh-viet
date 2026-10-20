@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Danh từ y khoa Anh–Việt</title>
+    <title>Danh Từ Y Khoa Anh–Việt</title>
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
-    <updated>2026-10-20T01:19:41+11:00</updated>
+    <updated>2026-10-20T23:58:12+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
     <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
+    <entry>
+        <title>Breastmilk</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/breastmilk/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/breastmilk/</id>
+
+        <updated>2026-10-20T23:58:12+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    human milk sữa mẹ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>human milk</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>sữa mẹ</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Paratyphoid fever</title>
         <author>
@@ -119,7 +144,7 @@
         <updated>2026-10-20T01:13:56+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    vermiform appendix ruột thừa ruột dư cuống ruột
+                    vermiform appendix Lê VĐ, Tự điển Việt Nam, p 1255. ruột dư dt. Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : Bịnh ruột dư.
                 ]]>
             </summary>
         <content type="html">
@@ -132,10 +157,14 @@
 <section class="medical-term">
 <h3>ruột dư</h3>
 </section>
-<section class="medical-term">
-<h3>cuống ruột</h3>
-</section>
 </div>
+<details>
+<summary>References</summary>
+<p>Lê VĐ, <em>Tự điển Việt Nam</em>, p 1255.</p>
+<blockquote>
+<p><strong>ruột dư</strong> <em>dt.</em> Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : <em>Bịnh ruột dư.</em></p>
+</blockquote>
+</details>
             ]]>
         </content>
     </entry>
@@ -240,30 +269,6 @@
 </section>
 <section class="medical-term">
 <h3>siêu vi trùng <span class="pronunciation" data-pronunciation="cô-ʀô-na">corona</span></h3>
-</section>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Vaccine</title>
-        <author>
-            <name>Quinton</name>
-        </author>
-        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/"/>
-        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/</id>
-
-        <updated>2026-10-20T01:04:18+11:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    vaccine
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="medical-terms">
-<section class="medical-term">
-<h3><span class="pronunciation" data-pronunciation="ⱴắc-xɪn">vaccine</span></h3>
 </section>
 </div>
             ]]>

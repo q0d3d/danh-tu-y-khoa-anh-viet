@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Danh từ y khoa Anh–Việt",
+    "title": "Danh Từ Y Khoa Anh–Việt",
     "description": "",
     "home_page_url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet",
     "feed_url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.json",
@@ -9,6 +9,20 @@
         "name": "Quinton"
     },
     "items": [
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/breastmilk/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/breastmilk/",
+            "title": "Breastmilk",
+            "summary": "human milk sữa mẹ",
+            "content_html": "<p><em>human milk</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sữa mẹ</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-20T23:58:12+11:00",
+            "date_modified": "2026-10-20T23:58:12+11:00"
+        },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/paratyphoid-fever/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/paratyphoid-fever/",
@@ -69,15 +83,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/appendix/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/appendix/",
             "title": "Appendix",
-            "summary": "vermiform appendix ruột thừa ruột dư cuống ruột",
-            "content_html": "<p><em>vermiform appendix</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ruột thừa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ruột dư</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cuống ruột</h3>\n</section>\n</div>",
+            "summary": "vermiform appendix Lê VĐ, Tự điển Việt Nam, p 1255. ruột dư dt. Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : Bịnh ruột dư.",
+            "content_html": "<p><em>vermiform appendix</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ruột thừa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ruột dư</h3>\n</section>\n</div>\n<details>\n<summary>References</summary>\n<p>Lê VĐ, <em>Tự điển Việt Nam</em>, p 1255.</p>\n<blockquote>\n<p><strong>ruột dư</strong> <em>dt.</em> Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : <em>Bịnh ruột dư.</em></p>\n</blockquote>\n</details>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-20T01:13:56+11:00",
-            "date_modified": "2026-10-20T01:13:56+11:00"
+            "date_modified": "2026-10-20T17:33:05+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/neck/",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2026-10-20T01:07:08+11:00",
             "date_modified": "2026-10-20T01:19:41+11:00"
-        },
-        {
-            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/",
-            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/",
-            "title": "Vaccine",
-            "summary": "vaccine",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ⱴắc-xɪn\">vaccine</span></h3>\n</section>\n</div>",
-            "author": {
-                "name": "Quinton"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-10-20T01:04:18+11:00",
-            "date_modified": "2026-10-20T01:04:18+11:00"
         }
     ]
 }
