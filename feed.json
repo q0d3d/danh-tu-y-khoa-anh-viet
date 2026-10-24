@@ -10,6 +10,118 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gout/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gout/",
+            "title": "Gout",
+            "summary": "goutte thống phong",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"gúᴛ\">goutte</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thống phong</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:40:12+11:00",
+            "date_modified": "2026-10-24T16:40:12+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acupuncture-therapy/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acupuncture-therapy/",
+            "title": "Acupuncture therapy",
+            "summary": "châm cứu",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>châm cứu</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:36:32+11:00",
+            "date_modified": "2026-10-24T16:36:32+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gua-sha/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gua-sha/",
+            "title": "Gua sha",
+            "summary": "cạo gió đánh gió đánh cảm",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cạo gió</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đánh gió</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đánh cảm</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:34:53+11:00",
+            "date_modified": "2026-10-24T16:35:52+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/adipose-tissue/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/adipose-tissue/",
+            "title": "Adipose tissue",
+            "summary": "fatty tissue; fat Vernacular Jargon tổ chức mỡ",
+            "content_html": "<p><em>fatty tissue; fat</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô mỡ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>mỡ</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>tổ chức mỡ</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:28:50+11:00",
+            "date_modified": "2026-10-24T16:28:50+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/connective-tissue/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/connective-tissue/",
+            "title": "Connective tissue",
+            "summary": "mô liên kết tổ chức liên kết",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô liên kết</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tổ chức liên kết</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:21:15+11:00",
+            "date_modified": "2026-10-24T16:21:15+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tissue/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tissue/",
+            "title": "Tissue",
+            "summary": "body tissue mô tổ chức",
+            "content_html": "<p><em>body tissue</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tổ chức</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:18:49+11:00",
+            "date_modified": "2026-10-24T16:18:49+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/microscope/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/microscope/",
+            "title": "Microscope",
+            "summary": "kính hiển vi",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span> hiển vi</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:17:50+11:00",
+            "date_modified": "2026-10-24T16:17:50+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/biopsy/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/biopsy/",
+            "title": "Biopsy",
+            "summary": "sinh thiết",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sinh thiết</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-24T16:14:42+11:00",
+            "date_modified": "2026-10-24T16:14:42+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/myopia/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/myopia/",
             "title": "Myopia",
