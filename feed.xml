@@ -3,12 +3,105 @@
     <title>Danh Từ Y Khoa Anh–Việt</title>
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
-    <updated>2026-10-24T22:45:15+11:00</updated>
+    <updated>2026-10-25T12:39:09+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
     <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
+    <entry>
+        <title>External auditory canal</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/</id>
+
+        <updated>2026-10-25T12:39:09+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    external acoustic meatus; ear canal; auditory canal Vernacular ống tai ngoài ống thính giác ngoài ống thính giác
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>external acoustic meatus; ear canal; auditory canal</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>ống tai</h3>
+</section>
+<section class="medical-term">
+<h3>lỗ tai</h3>
+<p><span class="term-label">Vernacular</span></p>
+</section>
+<section class="medical-term">
+<h3>ống tai ngoài</h3>
+</section>
+<section class="medical-term">
+<h3>ống thính giác ngoài</h3>
+</section>
+<section class="medical-term">
+<h3>ống thính giác</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ear</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ear/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ear/</id>
+
+        <updated>2026-10-25T12:24:49+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    tai
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>tai</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Hydrogen</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hydrogen/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hydrogen/</id>
+
+        <updated>2026-10-25T12:20:42+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    hydro hydrogène khinh khí Carreis connotation of hydrogen gas or molecular hydrogen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3><span class="pronunciation" data-pronunciation="hi-đʀô ~ hɪ́t-ʀô ~ hi-ʀô">hydro</span></h3>
+</section>
+<section class="medical-term">
+<h3><span class="pronunciation" data-pronunciation="hi-đʀô-jeɴ">hydrogène</span></h3>
+</section>
+<section class="medical-term">
+<h3>khinh khí</h3>
+<p>Carreis connotation of hydrogen gas or molecular hydrogen.</p>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Calcium</title>
         <author>

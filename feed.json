@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/",
+            "title": "External auditory canal",
+            "summary": "external acoustic meatus; ear canal; auditory canal Vernacular ống tai ngoài ống thính giác ngoài ống thính giác",
+            "content_html": "<p><em>external acoustic meatus; ear canal; auditory canal</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ống tai</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lỗ tai</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>ống tai ngoài</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ống thính giác ngoài</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ống thính giác</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-25T12:39:09+11:00",
+            "date_modified": "2026-10-25T12:39:09+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ear/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ear/",
+            "title": "Ear",
+            "summary": "tai",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tai</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-25T12:24:49+11:00",
+            "date_modified": "2026-10-25T12:24:49+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hydrogen/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hydrogen/",
+            "title": "Hydrogen",
+            "summary": "hydro hydrogène khinh khí Carreis connotation of hydrogen gas or molecular hydrogen.",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô ~ hɪ́t-ʀô ~ hi-ʀô\">hydro</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô-jeɴ\">hydrogène</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>khinh khí</h3>\n<p>Carreis connotation of hydrogen gas or molecular hydrogen.</p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-25T12:20:42+11:00",
+            "date_modified": "2026-10-25T12:20:42+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "title": "Calcium",
