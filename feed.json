@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/",
+            "title": "Birth",
+            "summary": "childbirth; parturition Vernacular Jargon Vernacular Vernacular Connotes the difficulty of childbirth. Alternative spellings: sanh con, sanh, sanh đẻ, sanh nở",
+            "content_html": "<p><em>childbirth; parturition</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span> con<br><span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span></h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>đẻ con<br>đẻ</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span> đẻ</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span> nở</h3>\n</section>\n<section class=\"medical-term\">\n<h3>vượt cạn</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>Connotes the difficulty of childbirth.</p>\n</section>\n</div>\n<p><em>Alternative spellings: sanh con, sanh, sanh đẻ, sanh nở</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-28T08:21:20+11:00",
+            "date_modified": "2026-10-28T08:22:22+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/family-planning/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/family-planning/",
+            "title": "Family planning",
+            "summary": "kế hoạch hóa gia đình kế hoạch gia đình",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>kế hoạch hóa gia đình</h3>\n</section>\n<section class=\"medical-term\">\n<h3>kế hoạch gia đình</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-28T08:15:09+11:00",
+            "date_modified": "2026-10-28T08:15:09+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/atrium/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/atrium/",
             "title": "Atrium",
@@ -2141,15 +2169,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/dyspnoea/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/dyspnoea/",
             "title": "Dyspnoea",
-            "summary": "shortness of breath (SOB); difficulty breathing; breathlessness Vernacular Jargon Literally ‘difficulty breathing’. Vernacular Vernacular May carry the connotation of dyspnoea following maximal exertion. Vernacular May carry the connotation of dyspnoea following maximal exertion.",
-            "content_html": "<p><em>shortness of breath (SOB); difficulty breathing; breathlessness</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>khó thở</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n<p>Literally ‘difficulty breathing’.</p>\n</section>\n<section class=\"medical-term\">\n<h3>thở mệt<br>thở mệt mỏi</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>hụt hơi</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>May carry the connotation of dyspnoea following maximal exertion.</p>\n</section>\n<section class=\"medical-term\">\n<h3>hết hơi</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>May carry the connotation of dyspnoea following maximal exertion.</p>\n</section>\n</div>",
+            "summary": "shortness of breath (SOB); difficulty breathing; breathlessness Vernacular Jargon Literally ‘difficulty breathing’. Vernacular Vernacular May carry the connotation of dyspnoea following maximal exertion.",
+            "content_html": "<p><em>shortness of breath (SOB); difficulty breathing; breathlessness</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>khó thở</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n<p>Literally ‘difficulty breathing’.</p>\n</section>\n<section class=\"medical-term\">\n<h3>thở mệt<br>thở mệt mỏi</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>hụt hơi<br>hết hơi</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>May carry the connotation of dyspnoea following maximal exertion.</p>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-17T17:53:25+11:00",
-            "date_modified": "2026-10-17T18:11:32+11:00"
+            "date_modified": "2026-10-28T08:29:00+11:00"
         }
     ]
 }

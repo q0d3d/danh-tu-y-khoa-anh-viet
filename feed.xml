@@ -3,12 +3,81 @@
     <title>Danh Từ Y Khoa Anh–Việt</title>
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
-    <updated>2026-10-27T11:30:27+11:00</updated>
+    <updated>2026-10-28T08:29:00+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
     <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
+    <entry>
+        <title>Birth</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/</id>
+
+        <updated>2026-10-28T08:21:20+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    childbirth; parturition Vernacular Jargon Vernacular Vernacular Connotes the difficulty of childbirth. Alternative spellings: sanh con, sanh, sanh đẻ, sanh nở
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>childbirth; parturition</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3><span class="lexical-variant" data-variant="sanh">sinh</span> con<br><span class="lexical-variant" data-variant="sanh">sinh</span></h3>
+<p><span class="term-label">Vernacular</span> <span class="term-label">Jargon</span></p>
+</section>
+<section class="medical-term">
+<h3>đẻ con<br>đẻ</h3>
+<p><span class="term-label">Vernacular</span></p>
+</section>
+<section class="medical-term">
+<h3><span class="lexical-variant" data-variant="sanh">sinh</span> đẻ</h3>
+</section>
+<section class="medical-term">
+<h3><span class="lexical-variant" data-variant="sanh">sinh</span> nở</h3>
+</section>
+<section class="medical-term">
+<h3>vượt cạn</h3>
+<p><span class="term-label">Vernacular</span></p>
+<p>Connotes the difficulty of childbirth.</p>
+</section>
+</div>
+<p><em>Alternative spellings: sanh con, sanh, sanh đẻ, sanh nở</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Family planning</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/family-planning/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/family-planning/</id>
+
+        <updated>2026-10-28T08:15:09+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    kế hoạch hóa gia đình kế hoạch gia đình
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>kế hoạch hóa gia đình</h3>
+</section>
+<section class="medical-term">
+<h3>kế hoạch gia đình</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Atrium</title>
         <author>
@@ -4341,7 +4410,7 @@
         <updated>2026-10-17T17:53:25+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    shortness of breath (SOB); difficulty breathing; breathlessness Vernacular Jargon Literally ‘difficulty breathing’. Vernacular Vernacular May carry the connotation of dyspnoea following maximal exertion. Vernacular May carry the connotation of dyspnoea following maximal exertion.
+                    shortness of breath (SOB); difficulty breathing; breathlessness Vernacular Jargon Literally ‘difficulty breathing’. Vernacular Vernacular May carry the connotation of dyspnoea following maximal exertion.
                 ]]>
             </summary>
         <content type="html">
@@ -4358,12 +4427,7 @@
 <p><span class="term-label">Vernacular</span></p>
 </section>
 <section class="medical-term">
-<h3>hụt hơi</h3>
-<p><span class="term-label">Vernacular</span></p>
-<p>May carry the connotation of dyspnoea following maximal exertion.</p>
-</section>
-<section class="medical-term">
-<h3>hết hơi</h3>
+<h3>hụt hơi<br>hết hơi</h3>
 <p><span class="term-label">Vernacular</span></p>
 <p>May carry the connotation of dyspnoea following maximal exertion.</p>
 </section>
