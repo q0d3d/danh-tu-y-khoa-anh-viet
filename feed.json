@@ -10,6 +10,328 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/atrium/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/atrium/",
+            "title": "Atrium",
+            "summary": "cardiac atrium; heart atrium tâm nhĩ",
+            "content_html": "<p><em>cardiac atrium; heart atrium</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tâm nhĩ</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:30:27+11:00",
+            "date_modified": "2026-10-27T11:30:27+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart-valve/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/heart-valve/",
+            "title": "Heart valve",
+            "summary": "cardiac valve valve tim",
+            "content_html": "<p><em>cardiac valve</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ⱴaɴ\">valve</span> tim</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:28:26+11:00",
+            "date_modified": "2026-10-27T11:28:26+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/necrosis/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/necrosis/",
+            "title": "Necrosis",
+            "summary": "hoại tử",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>hoại tử</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:19:10+11:00",
+            "date_modified": "2026-10-27T11:19:10+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/phosphate/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/phosphate/",
+            "title": "Phosphate",
+            "summary": "phosphate ion; inorganic phosphate; orthophosphate; PO43− phosphate",
+            "content_html": "<p><em>phosphate ion; inorganic phosphate; orthophosphate; PO<sub>4</sub><sup>3−</sup></em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"phốs-pháᴛ\">phosphate</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:14:13+11:00",
+            "date_modified": "2026-10-27T11:14:13+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/penicillin/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/penicillin/",
+            "title": "Penicillin",
+            "summary": "pénicilline",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"pê-ni-xi-lɪn\">pénicilline</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:10:48+11:00",
+            "date_modified": "2026-10-27T11:10:48+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/anopheles/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/anopheles/",
+            "title": "Anopheles",
+            "summary": "Anopheles mosquito muỗi anophèle",
+            "content_html": "<p><em>Anopheles mosquito</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>muỗi <span class=\"pronunciation\" data-pronunciation=\"a-nô-pheɴ\">anophèle</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:07:40+11:00",
+            "date_modified": "2026-10-27T11:07:40+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/elderly/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/elderly/",
+            "title": "Elderly",
+            "summary": "aged; older; old cao niên cao tuổi lớn tuổi già",
+            "content_html": "<p><em>aged; older; old</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cao niên</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cao tuổi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lớn tuổi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>già</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:04:47+11:00",
+            "date_modified": "2026-10-27T11:04:47+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/aged-care-home/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/aged-care-home/",
+            "title": "Aged care home",
+            "summary": "residential aged care facility; RACF; nursing home viện dưỡng lão nhà dưỡng lão",
+            "content_html": "<p><em>residential aged care facility; RACF; nursing home</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>viện dưỡng lão</h3>\n</section>\n<section class=\"medical-term\">\n<h3>nhà dưỡng lão</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T11:02:18+11:00",
+            "date_modified": "2026-10-27T11:02:18+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/nervous-system/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/nervous-system/",
+            "title": "Nervous system",
+            "summary": "hệ thống thần kinh hệ thần kinh",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>hệ thống thần kinh</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thần kinh</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:58:39+11:00",
+            "date_modified": "2026-10-27T10:58:39+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/parasympathetic-nervous-system/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/parasympathetic-nervous-system/",
+            "title": "Parasympathetic nervous system",
+            "summary": "hệ thống thần kinh đối giao cảm hệ thần kinh đối giao cảm hệ thống đối giao cảm hệ đối giao cảm hệ thống thần kinh phó giao cảm hệ thần kinh phó giao cảm hệ thống phó giao cảm hệ phó giao cảm",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>hệ thống thần kinh đối giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thần kinh đối giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thống đối giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ đối giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thống thần kinh phó giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thần kinh phó giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ thống phó giao cảm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hệ phó giao cảm</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:51:59+11:00",
+            "date_modified": "2026-10-27T10:51:59+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/streptococcus/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/streptococcus/",
+            "title": "Streptococcus",
+            "summary": "liên cầu khuẩn khuẩn liên cầu vi khuẩn liên cầu liên cầu liên cầu trùng vi trùng liên cầu",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>liên cầu khuẩn</h3>\n</section>\n<section class=\"medical-term\">\n<h3>khuẩn liên cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>vi khuẩn liên cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>liên cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>liên cầu trùng</h3>\n</section>\n<section class=\"medical-term\">\n<h3>vi trùng liên cầu</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:45:16+11:00",
+            "date_modified": "2026-10-27T10:45:16+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rib/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/rib/",
+            "title": "Rib",
+            "summary": "xương sườn",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>xương sườn</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:40:38+11:00",
+            "date_modified": "2026-10-27T10:40:38+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sternum/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/sternum/",
+            "title": "Sternum",
+            "summary": "breastbone xương ức",
+            "content_html": "<p><em>breastbone</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>xương ức</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:38:18+11:00",
+            "date_modified": "2026-10-27T10:38:18+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ophthalmology/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ophthalmology/",
+            "title": "Ophthalmology",
+            "summary": "nhãn khoa khoa mắt chuyên khoa mắt bộ môn mắt",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>nhãn khoa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>khoa mắt</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chuyên khoa mắt</h3>\n</section>\n<section class=\"medical-term\">\n<h3>bộ môn mắt</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:34:23+11:00",
+            "date_modified": "2026-10-27T10:34:23+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/health/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/health/",
+            "title": "Health",
+            "summary": "sức khỏe",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sức khỏe</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:32:54+11:00",
+            "date_modified": "2026-10-27T10:32:54+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/maternity-hospital/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/maternity-hospital/",
+            "title": "Maternity hospital",
+            "summary": "obstetric hospital Alternative spellings: bảo sinh viện, viện bảo sinh, nhà bảo sinh",
+            "content_html": "<p><em>obstetric hospital</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bảo <span class=\"lexical-variant\" data-variant=\"sinh\">sanh</span> viện<br>viện bảo <span class=\"lexical-variant\" data-variant=\"sinh\">sanh</span><br>nhà bảo <span class=\"lexical-variant\" data-variant=\"sinh\">sanh</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>nhà hộ sinh</h3>\n</section>\n<section class=\"medical-term\">\n<h3>bệnh viện sản khoa</h3>\n</section>\n</div>\n<p><em>Alternative spellings: bảo sinh viện, viện bảo sinh, nhà bảo sinh</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:30:31+11:00",
+            "date_modified": "2026-10-27T10:30:31+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iris/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iris/",
+            "title": "Iris",
+            "summary": "mống mắt tròng đen mắt tròng đen Vernacular Literally ‘the black part of the eyeball’, given almost all Vietnamese people have brown eyes. Alternative spellings: lòng đen mắt, lòng đen",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mống mắt</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"lòng\">tròng</span> đen mắt<br><span class=\"lexical-variant\" data-variant=\"lòng\">tròng</span> đen</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>Literally ‘the black part of the eyeball’, given almost all Vietnamese people have brown eyes.</p>\n</section>\n</div>\n<p><em>Alternative spellings: lòng đen mắt, lòng đen</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T10:05:34+11:00",
+            "date_modified": "2026-10-27T10:05:34+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/fracture/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/fracture/",
+            "title": "Fracture",
+            "summary": "bone fracture; broken bone Vernacular Jargon",
+            "content_html": "<p><em>bone fracture; broken bone</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>gãy xương<br>gãy</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T09:58:47+11:00",
+            "date_modified": "2026-10-27T10:38:00+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/peanut/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/peanut/",
+            "title": "Peanut",
+            "summary": "groundnut Southern Northern Alternative spellings: đậu phụng",
+            "content_html": "<p><em>groundnut</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đậu <span class=\"lexical-variant\" data-variant=\"phụng\">phộng</span></h3>\n<p><span class=\"term-label\">Southern</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>lạc</h3>\n<p><span class=\"term-label\">Northern</span></p>\n</section>\n</div>\n<p><em>Alternative spellings: đậu phụng</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-27T09:54:05+11:00",
+            "date_modified": "2026-10-27T09:54:05+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pupil/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pupil/",
+            "title": "Pupil",
+            "summary": "pupil of the eye con ngươi đồng tử",
+            "content_html": "<p><em>pupil of the eye</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>con ngươi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đồng tử</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-26T21:29:40+11:00",
+            "date_modified": "2026-10-26T21:29:40+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/caesarean-section/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/caesarean-section/",
+            "title": "Caesarean section",
+            "summary": "caesarean birth; abdominal delivery; C-section; caesar; caesarean delivery Vernacular Alternative spellings: sanh mổ",
+            "content_html": "<p><em>caesarean birth; abdominal delivery; C-section; caesar; caesarean delivery</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span> mổ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đẻ mổ</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>mổ lấy thai</h3>\n</section>\n<section class=\"medical-term\">\n<h3>mổ bắt con</h3>\n</section>\n<section class=\"medical-term\">\n<h3>mổ đẻ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>phẫu thuật lấy thai<br>giải phẫu lấy thai</h3>\n</section>\n</div>\n<p><em>Alternative spellings: sanh mổ</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-26T15:41:44+11:00",
+            "date_modified": "2026-10-27T09:53:01+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/prescription-document/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/prescription-document/",
+            "title": "Prescription document",
+            "summary": "prescription toa thuốc toa đơn thuốc đơn",
+            "content_html": "<p><em>prescription</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>toa thuốc<br>toa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đơn thuốc<br>đơn</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-26T15:39:51+11:00",
+            "date_modified": "2026-10-26T15:46:44+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/asbestos/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/asbestos/",
+            "title": "Asbestos",
+            "summary": "a mi ăng",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>a mi ăng</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-26T15:35:57+11:00",
+            "date_modified": "2026-10-26T15:35:57+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/external-auditory-canal/",
             "title": "External auditory canal",
@@ -42,42 +364,42 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hydrogen/",
             "title": "Hydrogen",
             "summary": "hydro hydrogène khinh khí Carreis connotation of hydrogen gas or molecular hydrogen.",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô ~ hɪ́t-ʀô ~ hi-ʀô\">hydro</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô-jeɴ\">hydrogène</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>khinh khí</h3>\n<p>Carreis connotation of hydrogen gas or molecular hydrogen.</p>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô ~ hɪ́t-ʀô ~ hi-ʀô\">hydro</span><br><span class=\"pronunciation\" data-pronunciation=\"hi-đʀô-jeɴ\">hydrogène</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>khinh khí</h3>\n<p>Carreis connotation of hydrogen gas or molecular hydrogen.</p>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-25T12:20:42+11:00",
-            "date_modified": "2026-10-25T12:20:42+11:00"
+            "date_modified": "2026-10-26T15:47:19+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "title": "Calcium",
             "summary": "calci calcium",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi\">calci</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi-om ~ caɴ-xi-um\">calcium</span></h3>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi\">calci</span><br><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi-om ~ caɴ-xi-um\">calcium</span></h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:45:15+11:00",
-            "date_modified": "2026-10-24T22:45:15+11:00"
+            "date_modified": "2026-10-26T15:47:42+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/magnesium/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/magnesium/",
             "title": "Magnesium",
             "summary": "ma nhê magnési magnésium",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ma nhê</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ma-nhê-zi\">magnési</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ma-nhê-zi-om ~ ma nhê-zi-um\">magnésium</span></h3>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ma nhê<br><span class=\"pronunciation\" data-pronunciation=\"ma-nhê-zi\">magnési</span> <br><span class=\"pronunciation\" data-pronunciation=\"ma-nhê-zi-om ~ ma nhê-zi-um\">magnésium</span></h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:44:03+11:00",
-            "date_modified": "2026-10-24T22:44:03+11:00"
+            "date_modified": "2026-10-26T15:48:02+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/potassium/",
@@ -210,14 +532,14 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/influenza/",
             "title": "Influenza",
             "summary": "flu; grippe cúm cảm cúm",
-            "content_html": "<p><em>flu; grippe</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cúm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cảm cúm</h3>\n</section>\n</div>",
+            "content_html": "<p><em>flu; grippe</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cúm<br>cảm cúm</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:08:23+11:00",
-            "date_modified": "2026-10-24T22:08:23+11:00"
+            "date_modified": "2026-10-26T15:48:34+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/common-cold/",
@@ -251,43 +573,43 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/leukaemia/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/leukaemia/",
             "title": "Leukaemia",
-            "summary": "bệnh bạch cầu lơ xê mi bệnh bạch huyết cầu bệnh bạch huyết",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bệnh bạch cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lơ xê mi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>bệnh bạch huyết cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>bệnh bạch huyết</h3>\n</section>\n</div>",
+            "summary": "bệnh bạch cầu bệnh bạch huyết cầu bệnh bạch huyết lơ xê mi",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bệnh bạch cầu<br>bệnh bạch huyết cầu<br>bệnh bạch huyết</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lơ xê mi</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:02:37+11:00",
-            "date_modified": "2026-10-24T22:02:37+11:00"
+            "date_modified": "2026-10-26T15:49:01+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/lymphoma/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/lymphoma/",
             "title": "Lymphoma",
             "summary": "u lim phô lim phôm ung thư hạch ung thư hạch bạch huyết",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>u lim phô</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lim phôm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ung thư hạch</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ung thư hạch bạch huyết</h3>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>u lim phô</h3>\n</section>\n<section class=\"medical-term\">\n<h3>lim phôm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ung thư hạch<br>ung thư hạch bạch huyết</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T21:54:22+11:00",
-            "date_modified": "2026-10-24T21:54:22+11:00"
+            "date_modified": "2026-10-26T15:49:41+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hormone/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hormone/",
             "title": "Hormone",
-            "summary": "hormone nội tiết tố kích thích tố kích tố nội tố",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hoóc-môɴ ~ hoọc-môɴ\">hormone</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>nội tiết tố</h3>\n</section>\n<section class=\"medical-term\">\n<h3>kích thích tố</h3>\n</section>\n<section class=\"medical-term\">\n<h3>kích tố</h3>\n</section>\n<section class=\"medical-term\">\n<h3>nội tố</h3>\n</section>\n</div>",
+            "summary": "hormone nội tiết tố nội tố kích thích tố kích tố",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"hoóc-môɴ ~ hoọc-môɴ\">hormone</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>nội tiết tố<br>nội tố</h3>\n</section>\n<section class=\"medical-term\">\n<h3>kích thích tố<br>kích tố</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T21:46:59+11:00",
-            "date_modified": "2026-10-24T21:46:59+11:00"
+            "date_modified": "2026-10-26T15:50:00+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/palate/",
@@ -322,14 +644,14 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/brachial-plexus/",
             "title": "Brachial plexus",
             "summary": "đám rối thần kinh cánh tay đám rối cánh tay tùng thần kinh cánh tay tùng cánh tay",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đám rối thần kinh cánh tay</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đám rối cánh tay</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tùng thần kinh cánh tay</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tùng cánh tay</h3>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đám rối thần kinh cánh tay<br>đám rối cánh tay</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tùng thần kinh cánh tay<br>tùng cánh tay</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T20:47:21+11:00",
-            "date_modified": "2026-10-24T20:47:21+11:00"
+            "date_modified": "2026-10-26T15:50:23+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/steroid/",
@@ -350,28 +672,28 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diabetes-mellitus/",
             "title": "Diabetes mellitus",
             "summary": "diabetes; DM tiểu đường đái tháo đường đái đường",
-            "content_html": "<p><em>diabetes; DM</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tiểu đường</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đái tháo đường</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đái đường</h3>\n</section>\n</div>",
+            "content_html": "<p><em>diabetes; DM</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tiểu đường</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đái tháo đường<br>đái đường</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T19:52:12+11:00",
-            "date_modified": "2026-10-24T19:52:12+11:00"
+            "date_modified": "2026-10-26T15:50:41+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/eyeglasses/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/eyeglasses/",
             "title": "Eyeglasses",
-            "summary": "spectacles; glasses mắt kính kính mắt kính",
-            "content_html": "<p><em>spectacles; glasses</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mắt <span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span> mắt</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span></h3>\n</section>\n</div>",
+            "summary": "spectacles; glasses Vernacular Literally ‘myopia glasses’, meaning ‘distance glasses’, but used to refer to prescription glasses in general. Alternative spellings: mắt kiếng, kiếng mắt, kiếng, kiếng cận",
+            "content_html": "<p><em>spectacles; glasses</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mắt <span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span> mắt<br><span class=\"lexical-variant\" data-variant=\"kiếng\">kính</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>kính cận</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n<p>Literally ‘myopia glasses’, meaning ‘distance glasses’, but used to refer to prescription glasses in general.</p>\n</section>\n</div>\n<p><em>Alternative spellings: mắt kiếng, kiếng mắt, kiếng, kiếng cận</em></p>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T19:49:59+11:00",
-            "date_modified": "2026-10-24T19:57:15+11:00"
+            "date_modified": "2026-10-26T15:53:57+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/hearing/",
@@ -503,29 +825,29 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/adipose-tissue/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/adipose-tissue/",
             "title": "Adipose tissue",
-            "summary": "fatty tissue; fat Vernacular Jargon tổ chức mỡ",
-            "content_html": "<p><em>fatty tissue; fat</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô mỡ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>mỡ</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>tổ chức mỡ</h3>\n</section>\n</div>",
+            "summary": "fatty tissue; fat Vernacular Jargon mô mỡ tổ chức mỡ",
+            "content_html": "<p><em>fatty tissue; fat</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mỡ</h3>\n<p><span class=\"term-label\">Vernacular</span> <span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>mô mỡ<br>tổ chức mỡ</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T16:28:50+11:00",
-            "date_modified": "2026-10-24T16:28:50+11:00"
+            "date_modified": "2026-10-26T15:55:28+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/connective-tissue/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/connective-tissue/",
             "title": "Connective tissue",
             "summary": "mô liên kết tổ chức liên kết",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô liên kết</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tổ chức liên kết</h3>\n</section>\n</div>",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mô liên kết<br>tổ chức liên kết</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T16:21:15+11:00",
-            "date_modified": "2026-10-24T16:21:15+11:00"
+            "date_modified": "2026-10-26T16:00:24+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tissue/",
@@ -924,14 +1246,14 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vagus-nerve/",
             "title": "Vagus nerve",
             "summary": "cranial nerve X; CN X; tenth cranial nerve; nerve X; pneumogastric nerve thần kinh phế vị thần kinh mê tẩu thần kinh lang thang thần kinh sọ số X thần kinh sọ thứ X thần kinh sọ X thần kinh sọ não số X thần&hellip;",
-            "content_html": "<p><em>cranial nerve X; CN X; tenth cranial nerve; nerve X; pneumogastric nerve</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>thần kinh phế vị</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh mê tẩu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh lang thang</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ số X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ thứ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ não số X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ não thứ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ não X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não số X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não thứ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não bộ số X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não bộ thứ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não bộ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh số X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh thứ X</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh X</h3>\n</section>\n</div>",
+            "content_html": "<p><em>cranial nerve X; CN X; tenth cranial nerve; nerve X; pneumogastric nerve</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>thần kinh phế vị</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh mê tẩu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh lang thang</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ số <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh sọ thứ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh sọ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh sọ não số <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh sọ não thứ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh sọ não <span class=\"pronunciation\" data-pronunciation=\"10\">X</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não số <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh não thứ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh não <span class=\"pronunciation\" data-pronunciation=\"10\">X</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh não bộ số <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh não bộ thứ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh não bộ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thần kinh số <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh thứ <span class=\"pronunciation\" data-pronunciation=\"10\">X</span><br>thần kinh <span class=\"pronunciation\" data-pronunciation=\"10\">X</span></h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-22T20:12:16+11:00",
-            "date_modified": "2026-10-22T20:20:24+11:00"
+            "date_modified": "2026-10-26T16:00:09+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/joint/",
@@ -1580,7 +1902,7 @@
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/asthma/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/asthma/",
-            "title": " Asthma",
+            "title": "Asthma",
             "summary": "bronchial asthma Southern Northern Jargon Vernacular",
             "content_html": "<p><em>bronchial asthma</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>suyễn</h3>\n<p><span class=\"term-label\">Southern</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>hen</h3>\n<p><span class=\"term-label\">Northern</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>hen suyễn</h3>\n<p><span class=\"term-label\">Jargon</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>ho hen</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n</div>",
             "author": {
@@ -1589,7 +1911,7 @@
             "tags": [
             ],
             "date_published": "2026-10-19T17:49:53+11:00",
-            "date_modified": "2026-10-19T17:49:53+11:00"
+            "date_modified": "2026-10-26T15:56:02+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/eyelid/",
@@ -1659,7 +1981,7 @@
             "tags": [
             ],
             "date_published": "2026-10-19T17:21:05+11:00",
-            "date_modified": "2026-10-19T17:21:05+11:00"
+            "date_modified": "2026-10-26T15:45:08+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/thymus/",
