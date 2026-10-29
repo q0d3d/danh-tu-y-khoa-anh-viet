@@ -3,12 +3,122 @@
     <title>Danh Từ Y Khoa Anh–Việt</title>
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
-    <updated>2026-10-28T08:29:00+11:00</updated>
+    <updated>2026-10-29T11:01:29+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
     <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
+    <entry>
+        <title>Diagnosis</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/</id>
+
+        <updated>2026-10-29T11:01:29+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Dx Alternative spellings: chẩn bịnh
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>Dx</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>chẩn đoán</h3>
+</section>
+<section class="medical-term">
+<h3>chẩn <span class="lexical-variant" data-variant="bịnh">bệnh</span></h3>
+</section>
+</div>
+<p><em>Alternative spellings: chẩn bịnh</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pulmonary tuberculosis</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pulmonary-tuberculosis/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pulmonary-tuberculosis/</id>
+
+        <updated>2026-10-29T10:58:43+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    respiratory tuberculosis; phthisis Vernacular
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>respiratory tuberculosis; phthisis</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>lao phổi</h3>
+</section>
+<section class="medical-term">
+<h3>ho lao</h3>
+<p><span class="term-label">Vernacular</span></p>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Laxative</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/laxative/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/laxative/</id>
+
+        <updated>2026-10-29T10:54:42+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    thuốc nhuận tràng thuốc xổ Alternative spellings: thuốc nhuận trường
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>thuốc nhuận <span class="lexical-variant" data-variant="trường">tràng</span></h3>
+</section>
+<section class="medical-term">
+<h3>thuốc xổ</h3>
+</section>
+</div>
+<p><em>Alternative spellings: thuốc nhuận trường</em></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Allergy</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/allergy/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/allergy/</id>
+
+        <updated>2026-10-29T10:45:36+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    dị ứng
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>dị ứng</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Birth</title>
         <author>
@@ -1134,15 +1244,19 @@
         <updated>2026-10-24T22:08:23+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    flu; grippe cúm cảm cúm
+                    flu; grippe; seasonal influenza; seasonal flu Calque of ‘seasonal influenza’.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><em>flu; grippe</em></p>
+                <p><em>flu; grippe; seasonal influenza; seasonal flu</em></p>
 <div class="medical-terms">
 <section class="medical-term">
 <h3>cúm<br>cảm cúm</h3>
+</section>
+<section class="medical-term">
+<h3>cúm mùa</h3>
+<p>Calque of ‘seasonal influenza’.</p>
 </section>
 </div>
             ]]>
@@ -2948,7 +3062,7 @@
         <updated>2026-10-20T01:04:18+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    vaccine
+                    vaccine thuốc chủng ngừa thuốc chủng
                 ]]>
             </summary>
         <content type="html">
@@ -2956,6 +3070,9 @@
                 <div class="medical-terms">
 <section class="medical-term">
 <h3><span class="pronunciation" data-pronunciation="ⱴắc-xɪn">vaccine</span></h3>
+</section>
+<section class="medical-term">
+<h3>thuốc chủng ngừa<br>thuốc chủng</h3>
 </section>
 </div>
             ]]>

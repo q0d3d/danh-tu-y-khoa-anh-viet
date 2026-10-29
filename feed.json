@@ -10,6 +10,62 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/",
+            "title": "Diagnosis",
+            "summary": "Dx Alternative spellings: chẩn bịnh",
+            "content_html": "<p><em>Dx</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>chẩn đoán</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chẩn <span class=\"lexical-variant\" data-variant=\"bịnh\">bệnh</span></h3>\n</section>\n</div>\n<p><em>Alternative spellings: chẩn bịnh</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T11:01:29+11:00",
+            "date_modified": "2026-10-29T11:01:29+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pulmonary-tuberculosis/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pulmonary-tuberculosis/",
+            "title": "Pulmonary tuberculosis",
+            "summary": "respiratory tuberculosis; phthisis Vernacular",
+            "content_html": "<p><em>respiratory tuberculosis; phthisis</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>lao phổi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ho lao</h3>\n<p><span class=\"term-label\">Vernacular</span></p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T10:58:43+11:00",
+            "date_modified": "2026-10-29T10:58:43+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/laxative/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/laxative/",
+            "title": "Laxative",
+            "summary": "thuốc nhuận tràng thuốc xổ Alternative spellings: thuốc nhuận trường",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>thuốc nhuận <span class=\"lexical-variant\" data-variant=\"trường\">tràng</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thuốc xổ</h3>\n</section>\n</div>\n<p><em>Alternative spellings: thuốc nhuận trường</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T10:54:42+11:00",
+            "date_modified": "2026-10-29T10:54:42+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/allergy/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/allergy/",
+            "title": "Allergy",
+            "summary": "dị ứng",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>dị ứng</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T10:45:36+11:00",
+            "date_modified": "2026-10-29T10:45:36+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth/",
             "title": "Birth",
@@ -559,15 +615,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/influenza/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/influenza/",
             "title": "Influenza",
-            "summary": "flu; grippe cúm cảm cúm",
-            "content_html": "<p><em>flu; grippe</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cúm<br>cảm cúm</h3>\n</section>\n</div>",
+            "summary": "flu; grippe; seasonal influenza; seasonal flu Calque of ‘seasonal influenza’.",
+            "content_html": "<p><em>flu; grippe; seasonal influenza; seasonal flu</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cúm<br>cảm cúm</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cúm mùa</h3>\n<p>Calque of ‘seasonal influenza’.</p>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:08:23+11:00",
-            "date_modified": "2026-10-26T15:48:34+11:00"
+            "date_modified": "2026-10-29T10:51:13+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/common-cold/",
@@ -1455,15 +1511,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/vaccine/",
             "title": "Vaccine",
-            "summary": "vaccine",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ⱴắc-xɪn\">vaccine</span></h3>\n</section>\n</div>",
+            "summary": "vaccine thuốc chủng ngừa thuốc chủng",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ⱴắc-xɪn\">vaccine</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thuốc chủng ngừa<br>thuốc chủng</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-20T01:04:18+11:00",
-            "date_modified": "2026-10-20T01:04:18+11:00"
+            "date_modified": "2026-10-29T10:47:14+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/virus/",
