@@ -10,18 +10,200 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iodine-2/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iodine-2/",
+            "title": "Iodine",
+            "summary": "I iode",
+            "content_html": "<p><em>I</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"i-ốᴛ\">iode</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T10:38:54+11:00",
+            "date_modified": "2026-11-01T10:38:54+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/saliva/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/saliva/",
+            "title": "Saliva",
+            "summary": "nước miếng nước bọt bọt dãi nước dãi",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>nước miếng</h3>\n</section>\n<section class=\"medical-term\">\n<h3>nước bọt<br>bọt</h3>\n</section>\n<section class=\"medical-term\">\n<h3>dãi<br>nước dãi</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T10:24:10+11:00",
+            "date_modified": "2026-11-01T10:26:28+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/health-department/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/health-department/",
+            "title": "Health department",
+            "summary": "department of health bộ y tế",
+            "content_html": "<p><em>department of health</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bộ y tế</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T09:52:54+11:00",
+            "date_modified": "2026-11-01T09:52:54+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/blood-donation/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/blood-donation/",
+            "title": "Blood donation",
+            "summary": "giving blood hiến máu cho máu",
+            "content_html": "<p><em>giving blood</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>hiến máu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cho máu</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T09:51:18+11:00",
+            "date_modified": "2026-11-01T09:51:18+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/blood-bank/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/blood-bank/",
+            "title": "Blood bank",
+            "summary": "ngân hàng máu",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ngân hàng máu</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T19:39:39+11:00",
+            "date_modified": "2026-10-31T19:39:39+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/schizophrenia/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/schizophrenia/",
+            "title": "Schizophrenia",
+            "summary": "tâm thần phân liệt phân liệt tâm thần bệnh phân liệt tinh thần phân liệt Alternative spellings: bịnh phân liệt",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>tâm thần phân liệt<br>phân liệt tâm thần</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"bịnh\">bệnh</span> phân liệt</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tinh thần phân liệt</h3>\n</section>\n</div>\n<p><em>Alternative spellings: bịnh phân liệt</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T19:32:29+11:00",
+            "date_modified": "2026-10-31T19:32:29+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/caffeine/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/caffeine/",
+            "title": "Caffeine",
+            "summary": "caféine",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"cà-phê-ɪn ~ ca-phê-ɪn\">caféine</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T19:07:15+11:00",
+            "date_modified": "2026-10-31T19:07:15+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/coffee/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/coffee/",
+            "title": "Coffee",
+            "summary": "cà phê",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>cà phê</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T18:44:44+11:00",
+            "date_modified": "2026-10-31T18:44:44+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/umbilicus/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/umbilicus/",
+            "title": "Umbilicus",
+            "summary": "navel; bellybutton; umbi Alternative spellings: rún, lỗ rún",
+            "content_html": "<p><em>navel; bellybutton; umbi</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"rún\">rốn</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>lỗ <span class=\"lexical-variant\" data-variant=\"rún\">rốn</span></h3>\n</section>\n</div>\n<p><em>Alternative spellings: rún, lỗ rún</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T17:04:32+11:00",
+            "date_modified": "2026-10-31T17:04:32+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/kidney/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/kidney/",
+            "title": "Kidney",
+            "summary": "thận Classified using quả or trái.",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>thận</h3>\n<p>Classified using <em>quả</em> or <em>trái</em>.</p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T16:34:41+11:00",
+            "date_modified": "2026-10-31T16:34:41+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/erythrocyte/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/erythrocyte/",
+            "title": "Erythrocyte",
+            "summary": "red blood cell; RBC; red cell; red blood corpuscle hồng huyết cầu hồng cầu huyết cầu đỏ tế bào máu đỏ",
+            "content_html": "<p><em>red blood cell; RBC; red cell; red blood corpuscle</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>hồng huyết cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>hồng cầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>huyết cầu đỏ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>tế bào máu đỏ</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-31T16:32:13+11:00",
+            "date_modified": "2026-10-31T16:32:13+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/oxygen-gas/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/oxygen-gas/",
+            "title": "Oxygen gas",
+            "summary": "molecular oxygen; dioxygen; diatomic oxygen; O2 khí ốc xi khí ô xi dưỡng khí khí oxygène",
+            "content_html": "<p><em>molecular oxygen; dioxygen; diatomic oxygen; O<sub>2</sub></em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>khí ốc xi<br>khí ô xi</h3>\n</section>\n<section class=\"medical-term\">\n<h3>dưỡng khí</h3>\n</section>\n<section class=\"medical-term\">\n<h3>khí <span class=\"pronunciation\" data-pronunciation=\"ốc-xi-jeɴ ~ ô-xi-jeɴ\">oxygène</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T15:18:55+11:00",
+            "date_modified": "2026-10-29T15:18:55+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/oxygen/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/oxygen/",
+            "title": "Oxygen",
+            "summary": "elemental oxygen; O Prescriptively only oxygen gas or molecular oxygen, rather than elemental oxygen.",
+            "content_html": "<p><em>elemental oxygen; O</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ốc xi<br>ô xi</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"ốc-xi-jeɴ ~ ô-xi-jeɴ\">oxygène</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>dưỡng khí</h3>\n<p>Prescriptively only oxygen gas or molecular oxygen, rather than elemental oxygen.</p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-29T15:16:51+11:00",
+            "date_modified": "2026-10-29T15:16:51+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/diagnosis/",
             "title": "Diagnosis",
-            "summary": "Dx Alternative spellings: chẩn bịnh",
-            "content_html": "<p><em>Dx</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>chẩn đoán</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chẩn <span class=\"lexical-variant\" data-variant=\"bịnh\">bệnh</span></h3>\n</section>\n</div>\n<p><em>Alternative spellings: chẩn bịnh</em></p>",
+            "summary": "Dx Alternative spellings: chẩn bịnh, đoán bịnh",
+            "content_html": "<p><em>Dx</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>chẩn đoán</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chẩn <span class=\"lexical-variant\" data-variant=\"bịnh\">bệnh</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>đoán <span class=\"lexical-variant\" data-variant=\"bịnh\">bệnh</span></h3>\n</section>\n</div>\n<p><em>Alternative spellings: chẩn bịnh, đoán bịnh</em></p>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-29T11:01:29+11:00",
-            "date_modified": "2026-10-29T11:01:29+11:00"
+            "date_modified": "2026-11-01T09:58:13+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/pulmonary-tuberculosis/",
@@ -461,15 +643,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/calcium/",
             "title": "Calcium",
-            "summary": "calci calcium",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi\">calci</span><br><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi-om ~ caɴ-xi-um\">calcium</span></h3>\n</section>\n</div>",
+            "summary": "calci calcium vôi A native general term for ‘calcium’. Its original meaning is ‘lime’ (calcium oxide or calcium dioxide). Eventually expanded to refer to inorganic calcium compounds more generally. Not used in formal chemical nomenclature.",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi\">calci</span> <br><span class=\"pronunciation\" data-pronunciation=\"caɴ-xi-om ~ caɴ-xi-um\">calcium</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>vôi</h3>\n<p>A native general term for ‘calcium’. Its original meaning is ‘lime’ (calcium oxide or calcium dioxide). Eventually expanded to refer to inorganic calcium compounds more generally. Not used in formal chemical nomenclature.</p>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T22:45:15+11:00",
-            "date_modified": "2026-10-26T15:47:42+11:00"
+            "date_modified": "2026-10-29T15:08:55+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/magnesium/",
@@ -1442,14 +1624,14 @@
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/appendix/",
             "title": "Appendix",
             "summary": "vermiform appendix Lê VĐ, Tự điển Việt Nam, p 1255. ruột dư dt. Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : Bịnh ruột dư.",
-            "content_html": "<p><em>vermiform appendix</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ruột thừa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ruột dư</h3>\n</section>\n</div>\n<details>\n<summary>References</summary>\n<p>Lê VĐ, <em>Tự điển Việt Nam</em>, p 1255.</p>\n<blockquote>\n<p><strong>ruột dư</strong> <em>dt.</em> Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : <em>Bịnh ruột dư.</em></p>\n</blockquote>\n</details>",
+            "content_html": "<p><em>vermiform appendix</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>ruột thừa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>ruột dư</h3>\n</section>\n<section class=\"medical-term\">\n<h3>cuống ruột</h3>\n</section>\n</div>\n<details>\n<summary>References</summary>\n<p>Lê VĐ, <em>Tự điển Việt Nam</em>, p 1255.</p>\n<blockquote>\n<p><strong>ruột dư</strong> <em>dt.</em> Đoạn ngắn nối liền ruột non và ruột già, vì lẽ nào thụng xuống phải chứa một số phẩn lâu ngày đến thúi nơi đó, khiến đau-đớn đến chết : <em>Bịnh ruột dư.</em></p>\n</blockquote>\n</details>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-20T01:13:56+11:00",
-            "date_modified": "2026-10-20T17:33:05+11:00"
+            "date_modified": "2026-11-01T10:36:11+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/neck/",
