@@ -10,6 +10,230 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tympanic-membrane/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/tympanic-membrane/",
+            "title": "Tympanic membrane",
+            "summary": "eardrum màng nhĩ màng tai",
+            "content_html": "<p><em>eardrum</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>màng nhĩ</h3>\n</section>\n<section class=\"medical-term\">\n<h3>màng tai</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:53:20+11:00",
+            "date_modified": "2026-11-01T21:53:20+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/formol/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/formol/",
+            "title": "Formol",
+            "summary": "formol",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"phoóc-môɴ ~ phoọc-môɴ\">formol</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:46:57+11:00",
+            "date_modified": "2026-11-01T21:46:57+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ammonia/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ammonia/",
+            "title": "Ammonia",
+            "summary": "NH3 a mô ni ắc am mô ni ắc a mô nhắc am mô nhắc",
+            "content_html": "<p><em>NH<sub>3</sub></em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>a mô ni ắc<br>am mô ni ắc<br>a mô nhắc<br>am mô nhắc</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:46:24+11:00",
+            "date_modified": "2026-11-01T21:46:24+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/zinc/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/zinc/",
+            "title": "Zinc",
+            "summary": "Zn kẽm",
+            "content_html": "<p><em>Zn</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>kẽm</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:40:55+11:00",
+            "date_modified": "2026-11-01T21:40:55+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cholesterol/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/cholesterol/",
+            "title": "Cholesterol",
+            "summary": "cholestérol",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"cô-lés-tê-ʀôɴ\">cholestérol</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:39:39+11:00",
+            "date_modified": "2026-11-01T21:39:39+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chlorine/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/chlorine/",
+            "title": "Chlorine",
+            "summary": "Cl chlore",
+            "content_html": "<p><em>Cl</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"clo\">chlore</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:38:12+11:00",
+            "date_modified": "2026-11-01T21:38:12+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/carbonate/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/carbonate/",
+            "title": "Carbonate",
+            "summary": "carbonate ion; CO32− carbonate",
+            "content_html": "<p><em>carbonate ion; CO<sub>3</sub><sup>2−</sup></em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"các-bo-náᴛ\">carbonate</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:36:36+11:00",
+            "date_modified": "2026-11-01T21:36:36+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ion/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/ion/",
+            "title": "Ion",
+            "summary": "i ông",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>i ông</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:34:00+11:00",
+            "date_modified": "2026-11-01T21:34:00+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/silver/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/silver/",
+            "title": "Silver",
+            "summary": "Ag bạc",
+            "content_html": "<p><em>Ag</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bạc</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T21:22:36+11:00",
+            "date_modified": "2026-11-01T21:23:07+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/labour/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/labour/",
+            "title": "Labour",
+            "summary": "chuyển bụng chuyển dạ",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>chuyển bụng</h3>\n</section>\n<section class=\"medical-term\">\n<h3>chuyển dạ</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T20:51:17+11:00",
+            "date_modified": "2026-11-01T20:51:17+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/obstetric-forceps/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/obstetric-forceps/",
+            "title": "Obstetric forceps",
+            "summary": "forceps kẹp kẹp lấy thai kẹp gắp thai nhi kẹp gắp thai kẹp sản khoa kìm kìm gắp thai kìm sản khoa Alternative spellings: cặp, cặp lấy thai, cặp gắp thai nhi, cặp gắp thai, cặp sản khoa, kềm, kềm gắp thai, kềm sản khoa,&hellip;",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"phóoc-xép ~ phoọc-xép\">forceps</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"cặp\">kẹp</span> <br><span class=\"lexical-variant\" data-variant=\"cặp\">kẹp</span> lấy thai<br><span class=\"lexical-variant\" data-variant=\"cặp\">kẹp</span> gắp thai nhi<br><span class=\"lexical-variant\" data-variant=\"cặp\">kẹp</span> gắp thai<br><span class=\"lexical-variant\" data-variant=\"cặp\">kẹp</span> sản khoa</h3>\n</section>\n<section class=\"medical-term\">\n<h3><span class=\"lexical-variant\" data-variant=\"kềm, kiềm\">kìm</span> <br><span class=\"lexical-variant\" data-variant=\"kềm, kiềm\">kìm</span> gắp thai<br><span class=\"lexical-variant\" data-variant=\"kềm, kiềm\">kìm</span> sản khoa</h3>\n</section>\n</div>\n<p><em>Alternative spellings: cặp, cặp lấy thai, cặp gắp thai nhi, cặp gắp thai, cặp sản khoa, kềm, kềm gắp thai, kềm sản khoa, kiềm, kiềm gắp thai, kiềm sản khoa</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T20:40:53+11:00",
+            "date_modified": "2026-11-01T20:40:53+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/urinary-tract/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/urinary-tract/",
+            "title": "Urinary tract",
+            "summary": "đường tiết niệu đường tiểu tiện đường nước tiểu",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đường tiết niệu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đường tiểu tiện</h3>\n</section>\n<section class=\"medical-term\">\n<h3>đường nước tiểu</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T13:55:52+11:00",
+            "date_modified": "2026-11-01T13:55:52+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/alkaloid/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/alkaloid/",
+            "title": "Alkaloid",
+            "summary": "alcaloïde",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"aɴ-ca-lô-ɪ́t\">alcaloïde</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T13:49:45+11:00",
+            "date_modified": "2026-11-01T13:49:45+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/fetus/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/fetus/",
+            "title": "Fetus",
+            "summary": "bào thai thai thai nhi",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>bào thai</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thai</h3>\n</section>\n<section class=\"medical-term\">\n<h3>thai nhi</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T13:46:28+11:00",
+            "date_modified": "2026-11-01T13:46:28+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/lung/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/lung/",
+            "title": "Lung",
+            "summary": "phổi Classified with lá.",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>phổi</h3>\n<p>Classified with <em>lá</em>.</p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T13:39:08+11:00",
+            "date_modified": "2026-11-01T13:39:08+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth-certificate/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/birth-certificate/",
+            "title": "Birth certificate",
+            "summary": "giấy khai sinh Alternative spellings: giấy khai sanh",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>giấy khai <span class=\"lexical-variant\" data-variant=\"sanh\">sinh</span></h3>\n</section>\n</div>\n<p><em>Alternative spellings: giấy khai sanh</em></p>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T13:32:10+11:00",
+            "date_modified": "2026-11-01T13:32:10+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iodine-2/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iodine-2/",
             "title": "Iodine",
