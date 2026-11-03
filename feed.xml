@@ -3,12 +3,151 @@
     <title>Danh Từ Y Khoa Anh–Việt</title>
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/feed.xml" rel="self" />
     <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet" />
-    <updated>2026-11-02T21:57:13+11:00</updated>
+    <updated>2026-11-04T00:29:20+11:00</updated>
     <author>
         <name>Quinton</name>
     </author>
     <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet</id>
 
+    <entry>
+        <title>Head</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/head/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/head/</id>
+
+        <updated>2026-11-04T00:06:59+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    đầu trốc
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>đầu</h3>
+</section>
+<section class="medical-term">
+<h3>trốc</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Capillary</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/capillary/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/capillary/</id>
+
+        <updated>2026-11-04T00:06:38+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    blood capillary; capillary vessel mao mạch mao quản
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>blood capillary; capillary vessel</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>mao mạch</h3>
+</section>
+<section class="medical-term">
+<h3>mao quản</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Metabolism</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/metabolism/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/metabolism/</id>
+
+        <updated>2026-11-04T00:03:46+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    chuyển hóa trao đổi chất biến dưỡng
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3>chuyển hóa</h3>
+</section>
+<section class="medical-term">
+<h3>trao đổi chất</h3>
+</section>
+<section class="medical-term">
+<h3>biến dưỡng</h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Acid</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acid/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acid/</id>
+
+        <updated>2026-11-03T22:28:23+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    acide
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="medical-terms">
+<section class="medical-term">
+<h3><span class="pronunciation" data-pronunciation="a-xɪ́t ~ ás-xɪ́t">acide</span></h3>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Muscle cramp</title>
+        <author>
+            <name>Quinton</name>
+        </author>
+        <link href="https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/muscle-cramp/"/>
+        <id>https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/muscle-cramp/</id>
+
+        <updated>2026-11-03T19:06:58+11:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    cramp Southern Northern
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>cramp</em></p>
+<div class="medical-terms">
+<section class="medical-term">
+<h3>vọp bẻ</h3>
+<p><span class="term-label">Southern</span></p>
+</section>
+<section class="medical-term">
+<h3>chuột rút</h3>
+<p><span class="term-label">Northern</span></p>
+</section>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Immunity</title>
         <author>
@@ -2840,7 +2979,7 @@
         <updated>2026-10-24T16:40:12+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    goutte thống phong
+                    goutte thống phong Traditional WHO, WHO International Standard Terminologies on Traditional Chinese Medicine, p 255. WGM2# English term English definition/description Chinese term Pinyin term 1820 Gout Characterized by recurrent attacks of a red, tender, hot and swollen joint, coupled with joint deformity and trophi formation.
                 ]]>
             </summary>
         <content type="html">
@@ -2851,8 +2990,35 @@
 </section>
 <section class="medical-term">
 <h3>thống phong</h3>
+<p><span class="term-label">Traditional</span></p>
 </section>
 </div>
+<details>
+<summary>References</summary>
+<p>WHO, <em>WHO International Standard Terminologies on Traditional Chinese Medicine</em>, p 255.</p>
+<blockquote>
+<table>
+<thead>
+<tr>
+<th>WGM2#</th>
+<th>English term</th>
+<th>English definition/description</th>
+<th>Chinese term</th>
+<th>Pinyin term</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1820</td>
+<td>Gout</td>
+<td>Characterized by recurrent attacks of a red, tender, hot and swollen joint, coupled with joint deformity and trophi formation. It most commonly affects the metatarsal-phalangeal joint at the base of the big toe. Other joints, such as the heels, ankles, knees, wrists, and fingers, may also be affected. Often occurs with phlegm stasis and trophi deposits in joints due to an improper diet, exposure to pathogenic factors, or damp heat accumulation within the body.</td>
+<td>痛风</td>
+<td>tòng fēng</td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</details>
             ]]>
         </content>
     </entry>
@@ -4892,12 +5058,13 @@
         <updated>2026-10-19T23:28:06+11:00</updated>
             <summary type="html">
                 <![CDATA[
-                    sắt
+                    Fe sắt
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="medical-terms">
+                <p><em>Fe</em></p>
+<div class="medical-terms">
 <section class="medical-term">
 <h3>sắt</h3>
 </section>

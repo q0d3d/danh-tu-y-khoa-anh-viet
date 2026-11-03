@@ -10,6 +10,76 @@
     },
     "items": [
         {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/head/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/head/",
+            "title": "Head",
+            "summary": "đầu trốc",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>đầu</h3>\n</section>\n<section class=\"medical-term\">\n<h3>trốc</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-04T00:06:59+11:00",
+            "date_modified": "2026-11-04T00:06:59+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/capillary/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/capillary/",
+            "title": "Capillary",
+            "summary": "blood capillary; capillary vessel mao mạch mao quản",
+            "content_html": "<p><em>blood capillary; capillary vessel</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>mao mạch</h3>\n</section>\n<section class=\"medical-term\">\n<h3>mao quản</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-04T00:06:38+11:00",
+            "date_modified": "2026-11-04T00:06:38+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/metabolism/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/metabolism/",
+            "title": "Metabolism",
+            "summary": "chuyển hóa trao đổi chất biến dưỡng",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>chuyển hóa</h3>\n</section>\n<section class=\"medical-term\">\n<h3>trao đổi chất</h3>\n</section>\n<section class=\"medical-term\">\n<h3>biến dưỡng</h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-04T00:03:46+11:00",
+            "date_modified": "2026-11-04T00:03:46+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acid/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acid/",
+            "title": "Acid",
+            "summary": "acide",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"a-xɪ́t ~ ás-xɪ́t\">acide</span></h3>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-03T22:28:23+11:00",
+            "date_modified": "2026-11-03T22:28:23+11:00"
+        },
+        {
+            "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/muscle-cramp/",
+            "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/muscle-cramp/",
+            "title": "Muscle cramp",
+            "summary": "cramp Southern Northern",
+            "content_html": "<p><em>cramp</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>vọp bẻ</h3>\n<p><span class=\"term-label\">Southern</span></p>\n</section>\n<section class=\"medical-term\">\n<h3>chuột rút</h3>\n<p><span class=\"term-label\">Northern</span></p>\n</section>\n</div>",
+            "author": {
+                "name": "Quinton"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-03T19:06:58+11:00",
+            "date_modified": "2026-11-03T19:06:58+11:00"
+        },
+        {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/immunity/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/immunity/",
             "title": "Immunity",
@@ -1413,15 +1483,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gout/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/gout/",
             "title": "Gout",
-            "summary": "goutte thống phong",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"gúᴛ\">goutte</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thống phong</h3>\n</section>\n</div>",
+            "summary": "goutte thống phong Traditional WHO, WHO International Standard Terminologies on Traditional Chinese Medicine, p 255. WGM2# English term English definition/description Chinese term Pinyin term 1820 Gout Characterized by recurrent attacks of a red, tender, hot and swollen joint, coupled with joint deformity and trophi formation.",
+            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3><span class=\"pronunciation\" data-pronunciation=\"gúᴛ\">goutte</span></h3>\n</section>\n<section class=\"medical-term\">\n<h3>thống phong</h3>\n<p><span class=\"term-label\">Traditional</span></p>\n</section>\n</div>\n<details>\n<summary>References</summary>\n<p>WHO, <em>WHO International Standard Terminologies on Traditional Chinese Medicine</em>, p 255.</p>\n<blockquote>\n<table>\n<thead>\n<tr>\n<th>WGM2#</th>\n<th>English term</th>\n<th>English definition/description</th>\n<th>Chinese term</th>\n<th>Pinyin term</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1820</td>\n<td>Gout</td>\n<td>Characterized by recurrent attacks of a red, tender, hot and swollen joint, coupled with joint deformity and trophi formation. It most commonly affects the metatarsal-phalangeal joint at the base of the big toe. Other joints, such as the heels, ankles, knees, wrists, and fingers, may also be affected. Often occurs with phlegm stasis and trophi deposits in joints due to an improper diet, exposure to pathogenic factors, or damp heat accumulation within the body.</td>\n<td>痛风</td>\n<td>tòng fēng</td>\n</tr>\n</tbody>\n</table>\n</blockquote>\n</details>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-24T16:40:12+11:00",
-            "date_modified": "2026-10-24T16:40:12+11:00"
+            "date_modified": "2026-11-04T00:29:20+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/acupuncture-therapy/",
@@ -2435,15 +2505,15 @@
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iron/",
             "url": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/iron/",
             "title": "Iron",
-            "summary": "sắt",
-            "content_html": "<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sắt</h3>\n</section>\n</div>",
+            "summary": "Fe sắt",
+            "content_html": "<p><em>Fe</em></p>\n<div class=\"medical-terms\">\n<section class=\"medical-term\">\n<h3>sắt</h3>\n</section>\n</div>",
             "author": {
                 "name": "Quinton"
             },
             "tags": [
             ],
             "date_published": "2026-10-19T23:28:06+11:00",
-            "date_modified": "2026-10-19T23:28:45+11:00"
+            "date_modified": "2026-11-03T19:07:14+11:00"
         },
         {
             "id": "https://q0d3d.github.io/danh-tu-y-khoa-anh-viet/anaemia/",
